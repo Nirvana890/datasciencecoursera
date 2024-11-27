@@ -31,8 +31,8 @@ This script processes the UCI HAR Dataset (Human Activity Recognition Using Smar
 
 ### Files Produced  
 - **`TidyDataSet.txt`**: A tidy dataset with averages for each variable grouped by activity and subject.
-- **'run_analysis.R'** : R code srcipt with the code used to create the Tidy Dataset.
-- **'Codebook'**: A codebook which outline the steps used in the run_analysis.R script 
+- **`run_analysis.R`** : R code srcipt with the code used to create the Tidy Dataset.
+- **`Codebook`**: A codebook which outline the steps used in the run_analysis.R script 
 
 ---
 
